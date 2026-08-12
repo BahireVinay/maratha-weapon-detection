@@ -1,0 +1,13 @@
+path: ../data/processed
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Bhala
+  1: Cannon
+  2: Dhal
+  3: Khanjeer
+  4: Talwar
+  5: Waghnakhe
